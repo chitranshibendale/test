@@ -290,4 +290,10 @@ a{
         font-family: Verdana, Geneva, Tahoma, sans-serif;
         margin-left: 3.2rem;
     }
+      #apply{
+      display: none;
+    }
+    #ware{
+      margin-left: -6rem;
+    }
   }
